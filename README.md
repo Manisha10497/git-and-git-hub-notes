@@ -29,3 +29,9 @@ Working Directory → Staging Area
 🔹 Step 5: Verify Staged Changes
 git status
 ✔ Confirms file is now in staging
+🔹 Step 6: Commit Changes
+git commit -m "Added project description to README"
+📌 Moves changes from:
+Staging Area → Local Repository (Commit History)
+🔹 Step 7: Push Changes to GitHub
+git push
