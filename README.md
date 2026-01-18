@@ -35,3 +35,4 @@ git commit -m "Added project description to README"
 Staging Area → Local Repository (Commit History)
 🔹 Step 7: Push Changes to GitHub
 git push
+done
