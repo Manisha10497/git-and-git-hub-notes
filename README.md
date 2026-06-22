@@ -100,4 +100,3 @@ Best Practices (Very Important)
 5.	Fix CI/CD pipeline failures before merge
 6.	Rebase or resolve conflicts if needed
 ---------------
-Checking Rebase functionality
